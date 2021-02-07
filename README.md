@@ -6,3 +6,5 @@ Disclaimer: Script was built for a particular version of the calculator and resu
 ## Proof of Concept
 ![Concept](ashe.png)
 Chart layout by Kake et. al, <i>Flamengo Esports</i>.
+
+Implementation can be seen at https://docs.google.com/spreadsheets/d/1bmaukzJu8VOSHzb8eJDdP3IClYodudAG3K3CNONbdYw/edit?usp=sharing
